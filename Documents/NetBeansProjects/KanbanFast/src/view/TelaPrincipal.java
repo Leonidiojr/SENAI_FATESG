@@ -346,10 +346,7 @@ public class TelaPrincipal extends javax.swing.JFrame {
         jTable3.setBackground(new java.awt.Color(255, 255, 204));
         jTable3.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
-                {null, null, null, null, null},
-                {null, null, null, null, null},
-                {null, null, null, null, null},
-                {null, null, null, null, null}
+
             },
             new String [] {
                 "Atividade", "Ação", "Inicio", "Fim", "Situação"
@@ -387,10 +384,7 @@ public class TelaPrincipal extends javax.swing.JFrame {
         jTable4.setBackground(new java.awt.Color(204, 255, 204));
         jTable4.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
-                {null, null, null, null, null},
-                {null, null, null, null, null},
-                {null, null, null, null, null},
-                {null, null, null, null, null}
+
             },
             new String [] {
                 "Atividade", "Ação", "Inicio", "Fim", "Situação"
@@ -428,10 +422,7 @@ public class TelaPrincipal extends javax.swing.JFrame {
         jTable5.setBackground(new java.awt.Color(204, 255, 255));
         jTable5.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
-                {null, null, null, null, null},
-                {null, null, null, null, null},
-                {null, null, null, null, null},
-                {null, null, null, null, null}
+
             },
             new String [] {
                 "Atividade", "Ação", "Inicio", "Fim", "Situação"

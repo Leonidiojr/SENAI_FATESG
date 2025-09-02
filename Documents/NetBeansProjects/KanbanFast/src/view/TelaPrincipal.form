@@ -346,7 +346,7 @@
                       <Color blue="cc" green="ff" red="ff" type="rgb"/>
                     </Property>
                     <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
-                      <Table columnCount="5" rowCount="4">
+                      <Table columnCount="5" rowCount="0">
                         <Column editable="false" title="Atividade" type="java.lang.String"/>
                         <Column editable="false" title="A&#xe7;&#xe3;o" type="java.lang.String"/>
                         <Column editable="false" title="Inicio" type="java.lang.String"/>
@@ -406,7 +406,7 @@
                       <Color blue="cc" green="ff" red="cc" type="rgb"/>
                     </Property>
                     <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
-                      <Table columnCount="5" rowCount="4">
+                      <Table columnCount="5" rowCount="0">
                         <Column editable="false" title="Atividade" type="java.lang.String"/>
                         <Column editable="false" title="A&#xe7;&#xe3;o" type="java.lang.String"/>
                         <Column editable="false" title="Inicio" type="java.lang.String"/>
@@ -466,7 +466,7 @@
                       <Color blue="ff" green="ff" red="cc" type="rgb"/>
                     </Property>
                     <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
-                      <Table columnCount="5" rowCount="4">
+                      <Table columnCount="5" rowCount="0">
                         <Column editable="false" title="Atividade" type="java.lang.String"/>
                         <Column editable="false" title="A&#xe7;&#xe3;o" type="java.lang.String"/>
                         <Column editable="false" title="Inicio" type="java.lang.String"/>
